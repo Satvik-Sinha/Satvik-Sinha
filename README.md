@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Satvik-Sinha
-- 🌱 I’m currently learning Mobile App Development.
+- 🌱 I’m currently learning Java and Web App Development.
 - 💬 Ask me anything relevant.
 - 📫 How to reach me: satvik2023.sinha@gmail.com
 
