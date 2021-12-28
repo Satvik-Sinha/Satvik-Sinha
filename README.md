@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Satvik-Sinha
-- 🌱 I’m currently learning Java and Web App Development.
-- 💬 Ask me anything relevant.
-- 📫 How to reach me: satvik2023.sinha@gmail.com
-
-
-
 #  Hi there 👋, I am Satvik Sinha!
 
 <p align="center">
