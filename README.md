@@ -8,7 +8,7 @@
 
 # 👦 About Me
 
--   🎓  I am a Pre-Final year undergraduate at MNNIT (NIT ALLAHABAD)
+-   🎓  I am a Final year undergraduate at MNNIT (NIT ALLAHABAD)
 - 🌱 I’m currently learning Java and Web App Development.
 
 <!---
