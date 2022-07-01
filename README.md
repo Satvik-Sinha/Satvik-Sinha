@@ -1,4 +1,4 @@
-#  Hi there 👋, I am Satvik Sinha!
+<h2 align="center"> Hi there 👋, I am Satvik Sinha! </h2>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Satvik-Sinha&show_icons=true&theme=dark)
  
  
