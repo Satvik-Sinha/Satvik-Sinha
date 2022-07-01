@@ -1,5 +1,5 @@
 #  Hi there 👋, I am Satvik Sinha!
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Satvik-Sinha)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Satvik-Sinha&show_icons=true&theme=dark)
 
 <p align="center">
  
