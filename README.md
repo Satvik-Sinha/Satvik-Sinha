@@ -7,9 +7,9 @@
 <h2 align="center"> 👦🏽‍♂️About Me </h2>
 <ul>🎓 I am a Final year undergraduate at MNNIT (NIT ALLAHABAD) </ul>
 <ul>🌱 I’m currently learning Java and Web App Development. </ul>
- <ul> I am a fullstack web developer using MERN stack as my main tech stack for development. </ul>
- <ul> I like exploring new technologies and try to use the existing ones to build something useful. </ul>
- <ul> I have also tried hands in some Android app development. </ul>
+<ul>🌱 I am a fullstack web developer using MERN stack as my main tech stack for development. </ul>
+<ul>🌱 I like exploring new technologies and try to use the existing ones to build something useful. </ul>
+<ul>🌱 I have also tried hands in some Android app development. </ul>
 
 
 
