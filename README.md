@@ -9,8 +9,6 @@
 
 <h3 align="center"> 👦🏽‍♂️About Me </h3>
 <hr>
-
-
 -🎓 I am a Final year undergraduate at MNNIT (NIT ALLAHABAD)
 -🌱 I’m currently learning Java and Web App Development.
 - I am a fullstack web developer using MERN stack as my main tech stack for development. 
