@@ -7,8 +7,7 @@
  <a href="mailto:satvik2023.sinha@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Python" height="40" style="vertical-align:top; margin:10px"></a>
 </p> 
 
-#                                                                      👦 About Me
-
+<h3 align="center"> 👦🏽‍♂️About Me </h3>
 -🎓 I am a Final year undergraduate at MNNIT (NIT ALLAHABAD)
 -🌱 I’m currently learning Java and Web App Development.
 - I am a fullstack web developer using MERN stack as my main tech stack for development. 
@@ -16,9 +15,10 @@
 - I have also tried hands in some Android app development. 
 
 
-#                                                                  Tech and Langugaes Used
-                                      The following is a list of the technologies and languages i am comfortable with.
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp;&nbsp;
+<h2 align="center">Tech and Langugaes Used</h2>
+<p align="center">
+   The following is a list of the technologies and languages i am comfortable with.<br/><br/>
+  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp;&nbsp;
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>&nbsp;&nbsp;
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>&nbsp;&nbsp;
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/jquery/jquery.png"></code>&nbsp;&nbsp;
@@ -28,7 +28,8 @@
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>&nbsp;&nbsp;
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>&nbsp;&nbsp;
   
-The following list contains langugages or technologies i have worked with but not used much
+  </p>
+
 
         
 <!---
